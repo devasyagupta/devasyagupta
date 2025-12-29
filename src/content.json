@@ -1,18 +1,18 @@
 {
   "general": {
-    "first_name": "Kevin",
-    "middle_name": "Huy",
-    "last_name": "Trinh",
+    "first_name": "Devasya",
+    "middle_name": "",
+    "last_name": "Gupta",
     "navbar_social_links": {
-      "github": "https://github.com/KevinTrinh1227",
+      "github": "https://github.com/devasyagupta",
       "resume": "/resume",
-      "linkedin": "https://www.linkedin.com/in/kevintrinh1227",
-      "email": "kevintrinh1227@gmail.com"
+      "linkedin": "https://www.linkedin.com/in/devasya-gupta/",
+      "email": "guptadeva700@gmail.com"
     }
   },
   "repo_stats": {
     "section": {
-      "enable_section": true
+      "enable_section": false
     },
     "repo_link": "https://github.com/KevinTrinh1227/Reactfolio",
     "api_link": "https://api.github.com/repos/KevinTrinh1227/Reactfolio"
@@ -21,13 +21,13 @@
     "section": {
       "enable_section": true
     },
-    "main_header": "Hello, Kevin here.",
+    "main_header": "Hello, Devasya here.",
     "main_subtitle": "I like to build stuff occasionally.",
     "intro_bio": [
-      "I'm currently a Freshman at the University of Houston,",
-      "pursuing a Bachelor of Science in Computer Science.",
-      "I have a profound interest in machine learning, operating",
-      "systems, full-stack development, and everything in between."
+      "Computer Science undergraduate working with Java, Python, and web technologies.",
+      "Interested in backend development and AI/ML fundamentals.",
+      "Building practical projects to strengthen engineering skills."
+      
     ],
     "email_button": "Say hello to me!"
   },
@@ -38,19 +38,19 @@
       "navbar_name": "/About",
       "description": "Brief information about me and some of my interests."
     },
-    "headShotUrl": "../assets/portrait.png",
+    "headShotUrl": "../assets/PFP.jpg",
     "bio": [
-      "I am currently an undergraduate student at the University of Houston pursuing a Bachelor of Science in Computer Science. I recently completed an internship at the McNair Research Program at STMU, where I conducted research on high-level to low-level language translation under the guidance of my mentor, Arthur Hanna, Ph.D. Some of my curent goals include gaining practical experience and cultivating valuable connections that will contribute to my personal and professional growth.",
-      "I have a profound interest in various types of software development, including machine learning, operating systems, and full-stack development. I'm a huge enthusiast of desk setups and PCs. In my free time, I enjoy playing and analyzing chess games, thrifting, playing video games, strumming my guitar, and trying local foods."
+      "I am a Computer Science undergraduate with a strong interest in building practical and reliable software systems. My academic journey and projects have helped me develop a solid foundation in programming, problem-solving, and understanding how software works beyond just writing code.",
+      "I have a profound interest in various types of software development, including Python, Java, machine learning and full-stack development. I'm a huge enthusiast of desk setups and PCs. In my free time, I enjoy playing and analyzing chess games, thrifting, playing video games, and trying local foods."
     ],
     "skills_caption": "Some technologies I've been worked with:",
     "skills": [
-      "JavaScript ES6+",
-      "React.js & Node.js",
-      "Python 3.x",
+      "AI & ML",
+      "Git, GitHub & Streamlit",
+      "Python 3.x & Java",
       "HTML & CSS",
-      "MongoDB & MySQL",
-      "Linux & Windows OS"
+      "MySQL & JDBC",
+      "OOPS & Problem Solving"
     ]
   },
   "academics": {
@@ -202,28 +202,17 @@
     },
     "experience_items": [
       {
-        "organization": "McNair STMU",
-        "title": "Research Intern",
-        "start_date": "May 2023",
-        "end_date": " July 2023",
+        "organization": "Metrix Healthcare India",
+        "title": "Intern",
+        "start_date": "Jan 2023",
+        "end_date": " Nov 2025",
         "description": [
-          "Conducted thorough undergraduate research on compiler design and high-level to low-level language translation.",
-          "Developed a lightweight translator by building a parser, lexer, and semantic analyzer module to convert custom code into assembly language for a virtual machine.",
-          "Collaborated closely with mentors to refine development skills and deepen understanding of language design principles and compiler design methodologies."
-        ]
-      },
-      {
-        "organization": "NP Engagement",
-        "title": "Web Developer Intern",
-        "start_date": "August 2022",
-        "end_date": "November 2022",
-        "description": [
-          "Maintained and updated numerous partner websites and online services, ensuring peak performance and relevance with proficiency in HTML, CSS, and JavaScript.",
-          "Integrated custom API scripts, optimized websites to fulfill unique client requirements and enhance user experience.",
-          "Utilized my proficiency in WordPress, crafting visually stunning and highly functional platforms tailored to precise client specifications, ensuring optimal user engagement.",
-          "Drove tangible business growth and significantly boosted client visibility and traffic by orchestrating cross-functional teamwork, applying my technical skills and strategic insights."
+          "Assisted in process automation and data handling for internal operations.",
+          "Worked with structured data and documentation workflows, Applied problem-solving and technical thinking to real-world workflow",
+          "Collaborated with teams to improve response effciency by 20%"
         ]
       }
+      
     ]
   },
   "projects": {
@@ -235,70 +224,66 @@
     },
     "project_items": [
       {
-        "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Github-Followers-Bot",
-        "project_name": "STMU Yelp",
-        "description": "Application that showcases popular locations for college students specifically for St. Mary's students. collaborated with an 7 person team.",
-        "resources_used": ["JavaScript", "Node.js", "GitHub API"],
-        "start_date": "June 2024",
-        "end_date": "July 2024",
+        "use_git_api": false,
+        "api_github_repo_link": "",
+        "project_name": "HireLoop",
+        "description": "An AI-powered resume tailoring platform that matches resumes to job descriptions, generates ATS-friendly resumes and personalized cover letters",
+        "resources_used": [ "Python",
+        "Machine Learning",
+        "NLP",
+        "HTML",
+        "CSS",
+        "JavaScript"],
+        "start_date": "June 2025",
+        "end_date": "July 2026",
         "links": [
           {
-            "href": "https://github.com/KevinTrinh1227/Github-Followers-Bot",
+            "href": "https://github.com/devasyagupta/HireLoop",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Github-Followers-Bot/archive/main.zip",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
           }
+          
         ]
       },
       {
-        "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Hycord-Client",
-        "project_name": "Hycord Client",
-        "description": "Discord.py client that uses Hypixel & PlayerDB APIs to allow users to link and access in-game data. Simply, a versatile Hypixel Discord bot.",
-        "resources_used": ["HTML", "Discord.py", "Hypixel API"],
-        "start_date": "Dec 2022",
-        "end_date": "Present",
+        "use_git_api": false,
+        "api_github_repo_link": "",
+        "project_name": "Fake News Detection System",
+        "description": "A machine learning based system that classifies news articles as real or fake using text preprocessing, feature extraction, and supervised learning models.",
+        "resources_used": ["Python",
+        "Machine Learning",
+        "NLP",
+        "Scikit-learn",
+        "Pandas"],
+        "start_date": "Aug 2025",
+        "end_date": "Dec 2025",
         "links": [
+
           {
-            "href": "https://www.hycord.net",
-            "icon": "FiExternalLink",
-            "data_tooltip": "Information Page"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Hycord-Client",
+            "href": "https://github.com/devasyagupta/FakeNews-Detection",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Hycord-Client/archive/main.zip",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
           }
+         
         ]
       },
       {
-        "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Reactfolio",
-        "project_name": "Reactfolio V2",
-        "description": "An e-portfolio built with React.js that utilizes GitHub API. Designed for public use and easy configuration. The second iteration of my website.",
+        "use_git_api": false,
+        "api_github_repo_link": "",
+        "project_name": "Satellite Image Classification",
+        "description": "A deep learning project that classifies land cover types from satellite images, enabling environmental analysis and monitoring through image-based predictions.",
         "resources_used": [
-          "React.js",
-          "NVM",
-          "HTML & CSS",
-          "JavaScript",
-          "HTML",
-          "CSS"
+          "Python",
+        "Deep Learning",
+        "TensorFlow",
+        "CNN",
+        "Streamlit"
         ],
-        "start_date": "Sept 2023",
-        "end_date": "Present",
+        "start_date": "June 2025",
+        "end_date": "Aug 2025",
         "links": [
           {
-            "href": "https://github.com/KevinTrinh1227/Reactfolio",
+            "href": "https://github.com/devasyagupta/Satellite",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
           }
