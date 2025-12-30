@@ -55,140 +55,75 @@
   },
   "academics": {
     "section": {
-      "enable_section": false,
-      "title": "~/Education",
-      "navbar_name": "/Academics",
-      "description": "Courses that I have completed or am on track to complete. Current GPA: 3.24"
+      "enable_section": true,
+      "title": "~/Certifications",
+      "navbar_name": "/Certifications",
+      "description": "Professional certifications and structured learning programs I have completed."
     },
     "general": {
-      "school": "St. Mary's University",
-      "degree": "Bachelor of Science in Computer Science",
-      "start_year": 2021,
+      "school": "Platform",
+      "degree": "Technical Certifications",
+      "start_year": 2022,
       "end_year": 2025
     },
     "years": [
       {
-        "year": 2021,
-        "semester": "Fall",
+        "year": 2025,
+        "semester": "Foundations",
         "courses": [
           {
-            "abbreviation": "CS 1310",
-            "name": "C Programming I",
-            "credits": 3.0
+            "abbreviation": "ACM",
+            "name": "Hour of AI – Computer Science Foundations",
+            "credits": 1
+            
           },
           {
-            "abbreviation": "MT 1411",
-            "name": "Pre Calculus",
-            "credits": 4.0
-          },
-          {
-            "abbreviation": "EN 1311",
-            "name": "Rhetoric and Composition",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "PL 1301",
-            "name": "Introduction to Philosophy",
-            "credits": 3.0
+            "abbreviation": "EduNet",
+            "name": "Green Skills and Artificial Intelligence",
+            "credits": 1
           }
-        ]
-      },
-      {
-        "year": 2022,
-        "semester": "Spring",
-        "courses": [
-          {
-            "abbreviation": "CS102",
-            "name": "C Programming II",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 3300",
-            "name": "Intro to Data Analytics Python Programming I",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2412",
-            "name": "Calculus I",
-            "credits": 4.0
-          },
-          {
-            "abbreviation": "FYE 1301",
-            "name": "First Year Seminar",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2412",
-            "name": "Multicultural American Lit",
-            "credits": 3.0
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "semester": "Fall",
-        "courses": [
-          {
-            "abbreviation": "CS 2315",
-            "name": "Algorithms and Data Structure",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 2313",
-            "name": "Object Oriented Programming I",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 2110",
-            "name": "Sophomore CS Seminar",
-            "credits": 1.0
-          },
-          {
-            "abbreviation": "CM 1341",
-            "name": "Intro to Human Communication",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "AR 1300",
-            "name": "Concepts in Visual Arts",
-            "credits": 3.0
-          }
+          
         ]
       },
       {
         "year": 2023,
-        "semester": "Spring",
+        "semester": "Industry Exposure",
         "courses": [
           {
-            "abbreviation": "CS 2350",
-            "name": "Computer Architecture",
-            "credits": 3.0
+            "abbreviation": "JPM",
+            "name": "JP Morgan Virtual Experience Program",
+            "credits": 1
           },
           {
-            "abbreviation": "CS 2323",
-            "name": "Object Oritented Programming II",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 4375",
-            "name": "Advanced Topics (Python Data Analytics)",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2323",
-            "name": "Discrete Math Structures",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "TH 1301",
-            "name": "Introduction to Thelogy",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "AC 2301",
-            "name": "Financial Accounting",
-            "credits": 3.0
+            "abbreviation": "MCK",
+            "name": "McKinsey Forward Program",
+            "credits": 1
           }
+          
+        ]
+      },
+      {
+        "year": 2024,
+        "semester": "Applied Skills",
+        "courses": [
+          {
+            "abbreviation": "TATA",
+            "name": "Tata ESG Virtual Experience Program",
+            "credits": 1
+          }
+          
+        ]
+      },
+      {
+        "year": 2025,
+        "semester": "Advanced AI",
+        "courses": [
+          {
+            "abbreviation": "KAGGLE",
+            "name": "AI Agents Intensive Course with Google and Kaggle",
+            "credits": 1
+          }
+          
         ]
       }
     ]
@@ -300,3 +235,4 @@
     "description": "The page you are looking for does not exist. Chose one of the following links to continue."
   }
 }
+
